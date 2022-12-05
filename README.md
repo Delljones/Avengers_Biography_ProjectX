@@ -3,7 +3,7 @@ Word Document included - Please reach out for any clarification
 
 Please see word Doc attatched - https://github.com/Delljones/Avengers_Biography_ProjectX/blob/main/ProjectXWebsiteContent.docx
 
-and ZIP file for easy access 
+and ZIP file for easy access - https://github.com/Delljones/Avengers_Biography_ProjectX/blob/main/avengers_bio.zip
 
 
 ////
