@@ -1,7 +1,9 @@
 Team Avengers  Biography -- Coded in React for ease in transition
 Word Document included - Please reach out for any clarification
 
-Please see word Doc attatched 
+Please see word Doc attatched - https://github.com/Delljones/Avengers_Biography_ProjectX/blob/main/ProjectXWebsiteContent.docx
+
+and ZIP file for easy access 
 
 
 ////
