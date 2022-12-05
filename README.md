@@ -1,6 +1,8 @@
 Team Avengers  Biography -- Coded in React for ease in transition
 Word Document included - Please reach out for any clarification
 
+Please see word Doc attatched 
+
 
 ////
 
